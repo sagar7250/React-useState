@@ -1,3 +1,21 @@
-.container{
+.inputbox{
   text-align: center;
+  align-items: center;
+  margin-top: 25px;
+  margin-left: 30%;
+  height:40px;
+  width: 500px;
+  border-radius: 20px;
+}
+.button1{
+  margin-left: 20px;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+}
+.list{
+  text-align: center;
+  align-items: center;
+  display: flex;
+  padding-left: 40%;
 }
